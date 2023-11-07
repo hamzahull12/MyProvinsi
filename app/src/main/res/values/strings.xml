@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Provinsi</string>
+    <string name="provinsi_name">Provinsi Name</string>
+    <string name="description">Description</string>
+    <string name="splashscreen_text">Provinsi Indonesia</string>
+    <string name="about_me">About Me</string>
+    <string name="my_name">M Hamzah Maulana</string>
+    <string name="my_email">hamzahmaulana212@gmail.com</string>
+    <string-array name="data_provinsi_names">
+        <item>Provinsi Aceh</item>
+        <item>Provinsi Banten</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Dki Jakarta</item>
+        <item>Jawa Timur</item>
+        <item>Bali</item>
+        <item>Sumatra Utara</item>
+        <item>Sumatra Barat</item>
+        <item>Daerah Istimewa Yogyakarta</item>
+    </string-array>
+    <string-array name="data_provinsi_logos">
+        <item>@drawable/aceh1</item>
+        <item>@drawable/banten</item>
+        <item>@drawable/jabar</item>
+        <item>@drawable/jateng</item>
+        <item>@drawable/jkt</item>
+        <item>@drawable/jatim</item>
+        <item>@drawable/bali</item>
+        <item>@drawable/sumut</item>
+        <item>@drawable/sumbar</item>
+        <item>@drawable/diy</item>
+    </string-array>
+    <string-array name="data_provinsi_description">
+        <item>Aceh (abjad Jawoë: اچيه دارالسلام) adolah provinsi di Indonesia nan baibu kota Banda Aceh. Aceh marupokan salah satu provinsi di Indonesia nan diagiah status sabagai daerah istimewa dan juo diagiah kawenangan otonomi khusus. Aceh talatak di ujuang utara pulau Sumatera dan marupokan provinsi paliang barat di Indonesia.</item>
+        <item>Banten atau dahulu dikenal dengan nama Bantam pada masa lalu merupakan sebuah daerah dengan kota pelabuhan yang sangat ramai, serta dengan masyarakat yang terbuka dan makmur. Banten pada abad ke-5 merupakan bagian dari Kerajaan Tarumanagara. Salah satu prasasti peninggalan Kerajaan Tarumanagara adalah Prasasti Cidanghiyang atau prasasti Lebak.</item>
+        <item>Temuan arkeologi di Anyer menunjukkan adanya budaya logam perunggu dan besi sebelum milenium pertama. Gerabah tanah liat prasejarah zaman buni (Bekasi kuno) bisa ditemukan merentang dari Anyer sampai Cirebon.[butuh rujukan]Wilayah Jawa Barat pada abad ke-5 merupakan bagian dari Kerajaan Tarumanagara.</item>
+        <item>Jawa Tengah adolah sabuah provinsi Indonesia nan talatak di bagian tangah Pulau Jawa. Provinsi ko babateh jo Jawa Barat di sabalah Barat, Samudra Hindia jo Daerah Istimewa Yogyakarta di Selatan, Jawa Timur di sabalah Timur, dan Lauik Jawa di utara. Laweh wilayahnyo 32.548 km², atau sakitar 25,04% dari laweh pulau Jawa. Provinsi Jawa Tangah juo maliputi Pulau Nusakambangan di sabalah Selatan (dakek jo pabatehan jo Jawa Barat), sarato Kapulauan Karimun Jawa di Lauik Jawa.</item>
+        <item>Jakarta (secara resmi bernama Daerah Khusus Ibukota Jakarta/DKI Jakarta) adalah ibu kota Indonesia dan sekaligus daerah otonom setingkat provinsi. Jakarta memiliki lima kota administrasi dan satu kabupaten administrasi. Sementara menurut pengertian secara umum, Jakarta merupakan kota metropolitan. Jakarta terletak di pesisir bagian barat laut Pulau Jawa. Dahulu pernah dikenal sebagai Sunda Kelapa, Jayakarta, dan Batavia. Jakarta juga mempunyai julukan The Big Durian karena dianggap kota yang sebanding dengan New York City (Big Apple).</item>
+        <item>Jawa Timur (disingkat Jatim, Jawa: ꦙꦮꦶꦮꦺꦠꦤ꧀, Pegon: جاوي وَيتان, translit. Jawi Wétan, Madura: Jhâbâ Tèmor) adalah sebuah wilayah provinsi yang terletak di bagian timur Pulau Jawa, Indonesia. Ibu kotanya adalah Kota Surabaya. Luas wilayahnya yakni 48.033 km², dengan jumlah penduduk sebanyak 41.149.974 jiwa (tahun 2022) dan kepadatan penduduk 857 jiwa/km2.[1] Hampir seperempat dari jumlah penduduk Jawa Timur bermukim di wilayah metropolitan Surabaya.[5]Jawa Timur memiliki wilayah terluas di antara enam provinsi di Pulau Jawa.</item>
+        <item>Bali (juga dikenal sebagai Kepulauan Bali, Bali: ᬩᬮᬶ) adalah sebuah wilayah provinsi yang terletak di Indonesia. Ibu kotanya adalah Denpasar. Provinsi Bali terletak di bagian barat Kepulauan Nusa Tenggara. Di awal kemerdekaan Indonesia, pulau ini termasuk dalam Provinsi Sunda Kecil yang beribu kota di Singaraja, dan kini terbagi menjadi 3 provinsi, yakni Bali, Nusa Tenggara Barat, dan Nusa Tenggara Timur .[9][10] Pada tahun 2020, penduduk provinsi Bali berjumlah 4.317.404 jiwa, dengan kepadatan 747 jiwa/km2.[5]Selain terdiri dari pulau Bali, wilayah provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu pulau Nusa Penida, pulau Nusa Lembongan, pulau Nusa Ceningan, Pulau Serangan, dan Pulau Menjangan. Secara geografis, Bali terletak di antara Pulau Jawa dan Pulau Lombok. Mayoritas penduduk Bali adalah pemeluk agama Hindu.[4] Di dunia, Bali terkenal sebagai tujuan pariwisata dengan keunikan berbagai hasil seni-budayanya dan juga mitosnya, khususnya bagi para wisatawan Jepang dan Australia. Bali juga dikenal dengan julukan Pulau Dewata dan Pulau Seribu Pura.</item>
+        <item>Sumatera Utara (disingkat Sumut; Surat Batak: ᯘᯮᯔᯖ᯲ᯒ ᯥᯖᯒ; Jawi: سوماترا اوتار)[6] adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Sumatra. Provinsi ini beribu kota di Kota Medan, dengan luas wilayah 72.981,23 km2. Sumatera Utara merupakan provinsi dengan jumlah penduduk terbesar keempat di Indonesia, setelah provinsi Jawa Barat, Jawa Timur, dan Jawa Tengah, dan terbanyak di Pulau Sumatra. Pada 31 Desember 2022 penduduk Sumatera Utara berjumlah 15.372.437 jiwa, dengan kepadatan penduduk 210 jiwa/km2.[1]</item>
+        <item>Sumatera Barat (disingkat Sumbar)[8] adalah sebuah provinsi di Indonesia yang terletak di Pulau Sumatra dengan ibu kota Padang. Provinsi Sumatera Barat terletak sepanjang pesisir barat Sumatra bagian tengah, dataran tinggi Bukit Barisan di sebelah timur, dan sejumlah pulau di lepas pantainya seperti Kepulauan Mentawai. Dari utara ke selatan, provinsi dengan wilayah seluas 42.012,89 km² ini berbatasan dengan empat provinsi, yakni Sumatera Utara, Riau, Jambi, dan Bengkulu.Sumatera Barat adalah rumah bagi etnis Minangkabau, walaupun wilayah adat Minangkabau sendiri lebih luas dari wilayah administratif Provinsi Sumatera Barat saat ini. Pada tahun 2023, provinsi ini memiliki penduduk sebanyak 5.640.629 jiwa dengan mayoritas beragama Islam.[4] Sumatera Barat terdiri dari 12 kabupaten dan 7 kota dengan pembagian wilayah administratif sesudah kecamatan di seluruh kabupaten (kecuali Kabupaten Kepulauan Mentawai) dinamakan sebagai nagari.</item>
+        <item>Daerah Istimewa Yogyakarta (disingkat DIY, Jawa: ꦝꦌꦫꦃꦆꦱ꧀ꦠꦶꦩꦺꦮꦪꦺꦴꦒꦾꦏꦂꦠ, pengucapan bahasa Jawa: [ŋajogjɔˈkart̪ɔ], pelafalan tidak resmi: Jogja/Jogjakarta) adalah Daerah Istimewa setingkat provinsi di Indonesia yang merupakan peleburan dari Negara Kesultanan Yogyakarta dan Negara Kadipaten Paku Alaman. Daerah Istimewa Yogyakarta terletak di bagian selatan Pulau Jawa, dan berbatasan dengan Provinsi Jawa Tengah dan Samudra Hindia. Daerah Istimewa yang memiliki luas 3.185,80 km2 ini terdiri atas satu kota, dan empat kabupaten, yang terbagi lagi menjadi 78 kapanewon/kemantren, dan 438 kalurahan/kelurahan. Menurut sensus penduduk 2010 memiliki populasi 3.452.390 jiwa dengan proporsi 1.705.404 laki-laki, dan 1.746.986 perempuan, serta memiliki kepadatan penduduk sebesar 1.084 jiwa per km2.[6]</item>
+    </string-array>
+</resources>
